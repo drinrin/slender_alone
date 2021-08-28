@@ -2,7 +2,7 @@
 A Slender Game created using Unity
 
 # Overview
-The player finds himself/herself in the middle of a secluded dark forest with only a flashlight in hand.
+The player finds himself/herself in the middle of a secluded dark forest with only a flashlight in hand. \n
 They must navigate through the area to find out what happened to the missing people/children.
 Clues were spread out in the forest and these may also serve as the key to escape.
 Is the player alone in this dark forest or is the perpetrator lurking around?
