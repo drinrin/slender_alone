@@ -1,7 +1,7 @@
 # slender_v1
 A Slender Game created using Unity
 
-#Download Link
+# Download Link
 https://drinrin.itch.io/slender-alone/download/N0T7ZXmzoSkJTTgUq9ZS0iETWPmDVGqgAedGy7wl
 
 # Overview
