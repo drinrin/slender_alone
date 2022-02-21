@@ -1,4 +1,4 @@
-# slender_v1
+# slender: alone
 A Slender Game created using Unity
 
 # Download Link
