@@ -5,6 +5,7 @@ A Slender Game created using Unity
 https://drinrin.itch.io/slender-alone/download/N0T7ZXmzoSkJTTgUq9ZS0iETWPmDVGqgAedGy7wl
 
 Slender_v1: Higher Graphics *may cause fps drop
+
 Slender_v2: Lower Graphics with fps counter
   
 # Overview
