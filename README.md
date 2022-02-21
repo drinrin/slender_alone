@@ -4,8 +4,8 @@ A Slender Game created using Unity
 # Download Link
 https://drinrin.itch.io/slender-alone/download/N0T7ZXmzoSkJTTgUq9ZS0iETWPmDVGqgAedGy7wl
 
-  //Slender_v1: Higher Graphics *may cause fps drop \n
-  //Slender_v2: Lower Graphics with fps counter
+  Slender_v1: Higher Graphics *may cause fps drop \n
+  Slender_v2: Lower Graphics with fps counter
   
 # Overview
 The player finds himself/herself in the middle of a secluded dark forest with only a flashlight in hand. <br>
